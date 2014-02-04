@@ -1,0 +1,113 @@
+
+#datapaper_info  {
+margin: 60px 0px 0px 0px;
+}
+
+#datapaper_info h1 {
+font-size: 1px;
+}
+
+#datapaper {
+border-bottom : 3px solid #fff;
+
+	background : #fff url(../img/head_datapaper.png) center top no-repeat;
+font-family : Verdana , Arial ,sans-serif;
+color : #373737;
+font-size : 12px;
+}
+
+#header {
+
+
+	position: relative;
+height: 121px;
+}
+
+#datapaper_info label {
+display: inline-block;
+margin-bottom: 5px;
+margin-right:  50px;
+font-weight: bold;
+}
+
+#datapaper_info #data{
+
+
+
+width : 70%;
+	margin: 20px 0 0 0;
+padding: 0 0 0 0px;
+font-size: 16px;
+
+}
+
+#datapaper_info .form-control {
+
+width: 100%;
+height: 34px;
+padding: 6px 12px;
+font-size: 12px;
+line-height: 1.428571429;
+color: #555;
+vertical-align: middle;
+background-color: #fff;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+
+}
+
+#datapaper_info #datapaper_command{
+
+clear: both;
+
+} 
+
+#datapaper_info #divform {
+clear: both;
+width: 66%;
+display:  block;
+
+}
+
+#datapaper_info #divdce {
+clear: both;
+width: 60%;
+
+}
+
+#datapaper_info #divdce .form-control {
+
+width: 250px;
+margin-left: 70px;
+height: 34px;
+padding: 6px 12px;
+font-size: 12px;
+line-height: 1.428571429;
+color: #555;
+vertical-align: middle;
+background-color: #fff;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+
+}
+#datapaper_info #divdce .button-form-control {
+
+width: 50px;
+margin-left: 30px;
+
+}
+
+
+#datapaper_command  #addmoreinfo{
+padding: 10px 0px 25px 0px;
+}
+
+
+
+#datapaper_command  #datapaper_add_more_info{
+
+width: 50px;
+height: 30px;
+}
